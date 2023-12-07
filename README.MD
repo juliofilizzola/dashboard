@@ -47,3 +47,6 @@ streamlit run <nome_do_script>.py
 
 Substitua <nome_do_script>.py pelo nome do seu script Python. O painel estará então acessível em seu navegador da web.
 
+
+Codigo desenvolvido a partir de asimov academy
+
